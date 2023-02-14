@@ -19,15 +19,15 @@ class App
         Console.WriteLine(string.Join(", ", values)); //alocando valores no array
 
         //realizar ordenação de valores por bubble sort
-        Console.WriteLine("Ordenando valores com Bubble Sort: \n ");
+        Console.WriteLine("Ordenando valores com Bubble Sort: "); //valores no output.txt
         BubbleSort(values);
-        Console.WriteLine("Valores ordenados: \n ");
+        Console.WriteLine("Valores ordenados: ");
         Console.WriteLine(string.Join(", ", values));//imprime ordenação
 
         //add os valores na collection
         System.Collections.ArrayList sortedValues = new System.Collections.ArrayList(values);
         Console.WriteLine("Varrendo collection com os mesmos valores que o array");
-        Console.WriteLine("Valores na collection: \n "+ string.Join(", ", sortedValues.ToArray()));
+        Console.WriteLine("Valores na collection: "+ string.Join(", ", sortedValues.ToArray()));
         Console.WriteLine("Arrays idênticos: " + sortedValues.ToArray().Equals(values)); //verificando se tem os mesmos valores
 
         using(StreamWriter sw = new StreamWriter("output.txt"))
@@ -36,7 +36,7 @@ class App
             {
                 sw.WriteLine(value);
             }
-        }
+        } //output.txt
 
         //metodo de sort
         static void BubbleSort(int[] values){
