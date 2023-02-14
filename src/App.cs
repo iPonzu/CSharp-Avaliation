@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 using System.IO;
 
 namespace av_cs;
 
-class av
+class App
 {
     static void Main(string[] args)
     {
@@ -12,7 +12,7 @@ class av
         Console.WriteLine("><><><><><><><><><><><><><><><><><><><><><");
 
         //ler arquivo
-        string[] lines = File.ReadAllLines("C:/Users/joao_/Desktop/csproj/av_cs/src/listaNumeros.txt");
+        string[] lines = File.ReadAllLines("C:/Users/joao_/Documents/csproj/av_cs/src/listaNumeros.txt");
         int [] values = Array.ConvertAll(lines, int.Parse);
 
         Console.WriteLine("Valores lidos da lista: ");

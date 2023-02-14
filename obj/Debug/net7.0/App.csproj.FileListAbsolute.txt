@@ -1,0 +1,15 @@
+C:\Users\joao_\Documents\csproj\av_cs\bin\Debug\net7.0\App.exe
+C:\Users\joao_\Documents\csproj\av_cs\bin\Debug\net7.0\App.deps.json
+C:\Users\joao_\Documents\csproj\av_cs\bin\Debug\net7.0\App.runtimeconfig.json
+C:\Users\joao_\Documents\csproj\av_cs\bin\Debug\net7.0\App.dll
+C:\Users\joao_\Documents\csproj\av_cs\bin\Debug\net7.0\App.pdb
+C:\Users\joao_\Documents\csproj\av_cs\obj\Debug\net7.0\App.csproj.AssemblyReference.cache
+C:\Users\joao_\Documents\csproj\av_cs\obj\Debug\net7.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Documents\csproj\av_cs\obj\Debug\net7.0\App.AssemblyInfoInputs.cache
+C:\Users\joao_\Documents\csproj\av_cs\obj\Debug\net7.0\App.AssemblyInfo.cs
+C:\Users\joao_\Documents\csproj\av_cs\obj\Debug\net7.0\App.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\csproj\av_cs\obj\Debug\net7.0\App.dll
+C:\Users\joao_\Documents\csproj\av_cs\obj\Debug\net7.0\refint\App.dll
+C:\Users\joao_\Documents\csproj\av_cs\obj\Debug\net7.0\App.pdb
+C:\Users\joao_\Documents\csproj\av_cs\obj\Debug\net7.0\App.genruntimeconfig.cache
+C:\Users\joao_\Documents\csproj\av_cs\obj\Debug\net7.0\ref\App.dll
